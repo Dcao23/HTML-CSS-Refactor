@@ -7,5 +7,3 @@ I updated the website title to describe what the website is about.
 I updated the website headings to fall into sequential order.
 I updated the CSS header divs to header nav.
 I modified the class elements in HTML and CSS to consolidate them.
-
-![Screenshot of Website](./assets/images/screenshot.png)
