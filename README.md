@@ -7,8 +7,6 @@ I updated the website title to describe what the website is about.
 I updated the website headings to fall into sequential order.
 I updated the CSS header divs to header nav.
 I modified the class elements in HTML and CSS to consolidate them.
-<<<<<<< HEAD
 
 [Screenshot of Website](./assets/images/Horiseon-refactor.PNG)
-=======
->>>>>>> 9a8c99346d53ee248d68e40aa9ea74893d28c084
+
