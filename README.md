@@ -8,3 +8,5 @@ I modified the class elements in HTML and CSS to consolidate them.
 
 [Screenshot of Website](./assets/images/horiseon-screenshot.PNG) 
 [Screenshot of Website](./assets/images/horiseon-screenshot-2.PNG)
+
+Link to website: https://dcao23.github.io/HTML-CSS-Refactor/
